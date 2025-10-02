@@ -1,1 +1,1 @@
-Git and git hub collab lab 
+Git and Devops Collaboration project
